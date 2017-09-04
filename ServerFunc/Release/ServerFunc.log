@@ -1,0 +1,8 @@
+﻿     Creating library C:\Users\Thijs\Documents\Visual Studio 2015\Projects\Audio\Release\ServerFunc.lib and object C:\Users\Thijs\Documents\Visual Studio 2015\Projects\Audio\Release\ServerFunc.exp
+  Generating code
+  2 of 45 functions ( 4.4%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ServerFunc.vcxproj -> C:\Users\Thijs\Documents\Visual Studio 2015\Projects\Audio\Release\ServerFunc.dll
+  ServerFunc.vcxproj -> C:\Users\Thijs\Documents\Visual Studio 2015\Projects\Audio\Release\ServerFunc.pdb (Full PDB)
