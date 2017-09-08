@@ -1,0 +1,3 @@
+#!/bin/bash
+
+g++ -o iets.exe Main.cpp Source.cpp -std=c++11
